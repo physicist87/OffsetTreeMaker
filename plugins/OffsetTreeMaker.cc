@@ -15,7 +15,7 @@
 //         Created:  Mon, 09 Nov 2015 17:09:43 GMT
 //
 //
-
+// Updated for MiniAOD
 // system include files
 #include <memory>
 
